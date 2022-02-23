@@ -1,0 +1,197 @@
+{
+  "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app": {
+    "sourcePath": "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app",
+    "isDirectory": true,
+    "size": 128,
+    "modifiedTime": 1645587825172,
+    "changeTime": 1645587825172,
+    "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+    "state": "u",
+    "isArtifactRoot": true,
+    "package": "force-app"
+  },
+  "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app/main": {
+    "sourcePath": "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app/main",
+    "isDirectory": true,
+    "size": 128,
+    "modifiedTime": 1645587830197,
+    "changeTime": 1645587830197,
+    "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+    "state": "u",
+    "package": "force-app"
+  },
+  "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app/main/default": {
+    "sourcePath": "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app/main/default",
+    "isDirectory": true,
+    "size": 224,
+    "modifiedTime": 1645587849504,
+    "changeTime": 1645587849504,
+    "contentHash": "ab622bb6e7b9286d434a10c83a4806e3758a4d8d",
+    "state": "u",
+    "package": "force-app"
+  },
+  "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app/main/default/aura": {
+    "sourcePath": "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app/main/default/aura",
+    "isDirectory": true,
+    "size": 96,
+    "modifiedTime": 1645560006466,
+    "changeTime": 1645560006466,
+    "contentHash": "71c20a341bfe32aa5cd5b4384e94f942bab6a7d3",
+    "state": "u",
+    "package": "force-app"
+  },
+  "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app/main/default/classes": {
+    "sourcePath": "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app/main/default/classes",
+    "isDirectory": true,
+    "size": 128,
+    "modifiedTime": 1645560006467,
+    "changeTime": 1645560006467,
+    "contentHash": "88026a456807e543f0b10ea948414d0776d0a01f",
+    "state": "u",
+    "package": "force-app"
+  },
+  "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app/main/default/classes/AccountListController.cls": {
+    "sourcePath": "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app/main/default/classes/AccountListController.cls",
+    "size": 375,
+    "modifiedTime": 1645560006467,
+    "changeTime": 1645560006467,
+    "contentHash": "c0c9dbacd7c8cfe868f0b50f871d32929b6ebcf4",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app/main/default/classes/AccountListController.cls-meta.xml": {
+    "sourcePath": "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app/main/default/classes/AccountListController.cls-meta.xml",
+    "size": 174,
+    "modifiedTime": 1645572903827,
+    "changeTime": 1645572903827,
+    "contentHash": "e2cbc796ec14b132b3b44146e384f1ecc17b052b",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app/main/default/flexipages": {
+    "sourcePath": "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app/main/default/flexipages",
+    "isDirectory": true,
+    "size": 96,
+    "modifiedTime": 1645593217281,
+    "changeTime": 1645593217281,
+    "contentHash": "f3263afdf34ce8587246248c3a407a6f1ed2e799",
+    "state": "u",
+    "package": "force-app"
+  },
+  "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app/main/default/flexipages/Dynamic_Interactions_Demo.flexipage-meta.xml": {
+    "sourcePath": "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app/main/default/flexipages/Dynamic_Interactions_Demo.flexipage-meta.xml",
+    "size": 836,
+    "modifiedTime": 1645591505306,
+    "changeTime": 1645593217283,
+    "contentHash": "28e065ff6141a7372ee781756ab20d7980054a18",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "FlexiPage"
+  },
+  "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app/main/default/lwc": {
+    "sourcePath": "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app/main/default/lwc",
+    "isDirectory": true,
+    "size": 192,
+    "modifiedTime": 1645570013586,
+    "changeTime": 1645570013586,
+    "contentHash": "256d87828b085da693d90a31cb5abc05234f7047",
+    "state": "u",
+    "package": "force-app"
+  },
+  "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app/main/default/lwc/accountList": {
+    "sourcePath": "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app/main/default/lwc/accountList",
+    "isDirectory": true,
+    "size": 160,
+    "modifiedTime": 1645560006469,
+    "changeTime": 1645560006469,
+    "contentHash": "1424d7a96068213b44c87086ebe7a0e6ba340bef",
+    "state": "u",
+    "package": "force-app"
+  },
+  "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app/main/default/lwc/accountList/accountList.html": {
+    "sourcePath": "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app/main/default/lwc/accountList/accountList.html",
+    "size": 894,
+    "modifiedTime": 1645560006469,
+    "changeTime": 1645560006469,
+    "contentHash": "43ddfb02185665ee98872065aa066f8bce84b543",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle"
+  },
+  "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app/main/default/lwc/accountList/accountList.js": {
+    "sourcePath": "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app/main/default/lwc/accountList/accountList.js",
+    "size": 655,
+    "modifiedTime": 1645560006469,
+    "changeTime": 1645560006469,
+    "contentHash": "d203493c1cfc6a0248e2f864b9cf6016327e86de",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle"
+  },
+  "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app/main/default/lwc/accountList/accountList.js-meta.xml": {
+    "sourcePath": "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app/main/default/lwc/accountList/accountList.js-meta.xml",
+    "size": 1309,
+    "modifiedTime": 1645560006469,
+    "changeTime": 1645560006469,
+    "contentHash": "a54e339204c4ba010ca9588c25ab6ea4d0a0930e",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle"
+  },
+  "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app/main/default/lwc/contactList": {
+    "sourcePath": "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app/main/default/lwc/contactList",
+    "isDirectory": true,
+    "size": 160,
+    "modifiedTime": 1645560006470,
+    "changeTime": 1645560006470,
+    "contentHash": "e5aa375b968aad2fcf48b45e0b0aedc0c6f7b0d9",
+    "state": "u",
+    "package": "force-app"
+  },
+  "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app/main/default/lwc/contactList/contactList.html": {
+    "sourcePath": "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app/main/default/lwc/contactList/contactList.html",
+    "size": 938,
+    "modifiedTime": 1645560006470,
+    "changeTime": 1645560006470,
+    "contentHash": "6be32a55ae891131066d07f0953a01507f335c14",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle"
+  },
+  "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app/main/default/lwc/contactList/contactList.js": {
+    "sourcePath": "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app/main/default/lwc/contactList/contactList.js",
+    "size": 602,
+    "modifiedTime": 1645560006470,
+    "changeTime": 1645560006470,
+    "contentHash": "1551fd106e6a7bbf82db9c8f4965736869fdae5b",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle"
+  },
+  "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app/main/default/lwc/contactList/contactList.js-meta.xml": {
+    "sourcePath": "/Users/jonathan.zhou/Projects/dynamic-interactions-demo/force-app/main/default/lwc/contactList/contactList.js-meta.xml",
+    "size": 671,
+    "modifiedTime": 1645560006471,
+    "changeTime": 1645560006471,
+    "contentHash": "e76bcd52fbc0526b8bf191d23811344a47246b2e",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle"
+  },
+  "/Users/jonathan.zhou/Projects/dynamic-interactions-demo": {
+    "sourcePath": "/Users/jonathan.zhou/Projects/dynamic-interactions-demo",
+    "isDirectory": true,
+    "size": 448,
+    "modifiedTime": 1645587801314,
+    "changeTime": 1645587801314,
+    "contentHash": "d2c5ef144af37009a102ddf47223494558f9a8c0",
+    "state": "u",
+    "isWorkspace": true
+  }
+}

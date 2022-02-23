@@ -1,0 +1,71 @@
+{
+  "serverMaxRevisionCounter": 11,
+  "sourceMembers": {
+    "Profile__Admin": {
+      "serverRevisionCounter": 1,
+      "lastRetrievedFromServer": 1,
+      "memberType": "Profile",
+      "isNameObsolete": false
+    },
+    "ApexClass__AccountListController": {
+      "serverRevisionCounter": 2,
+      "lastRetrievedFromServer": 2,
+      "memberType": "ApexClass",
+      "isNameObsolete": false
+    },
+    "FlexiPage__Dynamic_Interactions_Demo": {
+      "serverRevisionCounter": 11,
+      "lastRetrievedFromServer": 11,
+      "memberType": "FlexiPage",
+      "isNameObsolete": false
+    },
+    "LightningComponentBundle__accountList": {
+      "serverRevisionCounter": 3,
+      "lastRetrievedFromServer": 3,
+      "memberType": "LightningComponentBundle",
+      "isNameObsolete": false
+    },
+    "LightningComponentBundle__contactList": {
+      "serverRevisionCounter": 7,
+      "lastRetrievedFromServer": 7,
+      "memberType": "LightningComponentBundle",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__contactList/contactList.js": {
+      "serverRevisionCounter": 8,
+      "lastRetrievedFromServer": 8,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__contactList/contactList.html": {
+      "serverRevisionCounter": 9,
+      "lastRetrievedFromServer": 9,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__contactList/contactList.js-meta.xml": {
+      "serverRevisionCounter": 10,
+      "lastRetrievedFromServer": 10,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__accountList/accountList.js-meta.xml": {
+      "serverRevisionCounter": 4,
+      "lastRetrievedFromServer": 4,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__accountList/accountList.js": {
+      "serverRevisionCounter": 5,
+      "lastRetrievedFromServer": 5,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__accountList/accountList.html": {
+      "serverRevisionCounter": 6,
+      "lastRetrievedFromServer": 6,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    }
+  }
+}
